@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'BlackBird';
+    src: url('./fonts/projekt-blackbird-v2.otf');
+  }
+*{
+    font-family: 'BlackBird'!important;
+}
+
+div.rec-slider-container{
+    width: 420px;
+    height: 420px;
+    position: relative;
+    overflow: hidden;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+    text-transform: capitalize;
+}
