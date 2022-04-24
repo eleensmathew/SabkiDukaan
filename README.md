@@ -62,6 +62,13 @@ Your app is ready to be deployed!
 See the section about deployment for more information.
 
 # Preview
+![Screenshots](/sceenshots/sd1.jpeg)
+![Screenshots](/sceenshots/sd2.jpeg)
+![Screenshots](/sceenshots/sd3.jpeg)
+![Screenshots](/sceenshots/sd4.jpeg)
+![Screenshots](/sceenshots/sd5.jpeg)
+![Screenshots](/sceenshots/sd6.jpeg)
+![Screenshots](/sceenshots/sd7.jpeg)
 
 
 # Website link
