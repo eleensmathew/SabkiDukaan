@@ -1,0 +1,11 @@
+const express = require("express");
+const router = express.Router();
+const UserAuthController = require("../controllers/UserAuthControllers");
+const requireAuth = require("../middleware/authMiddleWare");
+router.post("/customer/register", UserAuthController.register);
+router.post("/customer/login", UserAuthController.login);
+router.get("/customer/cart",requireAuth, UserAuthController.GetCart);
+router.post("/customer/addcart",requireAuth, UserAuthController.AddtoCart);
+router.post("/customer/removecart",requireAuth, UserAuthController.RemovefromCart);
+router.get("/customer/logout", UserAuthController.Logout);
+module.exports = router;
