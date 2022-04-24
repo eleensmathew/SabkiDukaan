@@ -69,6 +69,8 @@ See the section about deployment for more information.
 ![Screenshots](/screenshots/sd5.jpeg)
 ![Screenshots](/screenshots/sd6.jpeg)
 ![Screenshots](/screenshots/sd7.jpeg)
+![Screenshots](/screenshots/sd8.jpeg)
+![Screenshots](/screenshots/sd9.jpeg)
 
 
 # Website link
