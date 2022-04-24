@@ -14,7 +14,7 @@ Online shopping often involves scams where scammers pretending to be legitimate 
 
 Video Link
 ==========
-<a href="https://youtu.be/dQw4w9WgXcQ">https://youtu.be/dQw4w9WgXcQ</a>
+<a href="https://www.youtube.com/watch?v=-TnkyUoeAlQ">SabkiDukaan video</a>
 
 Presentation Link
 ==================
@@ -65,7 +65,7 @@ See the section about deployment for more information.
 
 
 # Website link
-<a href="https://6264c1d66625683e75c01f85--ornate-semolina-5430e7.netlify.app">SabkiDukaan</a>
+<a href="https://ornate-semolina-5430e7.netlify.app/">SabkiDukaan</a>
 
 
 Technology Stack:
